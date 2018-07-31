@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\yknms\source\repos\encryption\encryption\source.cpp(22): warning C4244: '引数': 'wchar_t' から 'char' への変換です。データが失われる可能性があります。
+c:\users\yknms\source\repos\encryption\encryption\source.cpp(45): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\yknms\source\repos\encryption\encryption\source.cpp(72): warning C4101: 'e': ローカル変数は 1 度も使われていません。
+c:\users\yknms\source\repos\encryption\encryption\source.cpp(169): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  encryption.vcxproj -> c:\users\yknms\source\repos\encryption\Debug\encryption.exe
